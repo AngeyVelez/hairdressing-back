@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "l8g4/7Ob5yj7FNYO5nwI7FmXtbay0L9F7FHk1/Riqh5FuzESe4FOtfrDXvah6HOCo+0b6/7LgjTlEkZr4vSPGA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\CARLOS\\source\\repos\\BackendPeluqueria\\BackendPeluqueria.Data\\BackendPeluqueria.Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\CARLOS\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\CARLOS\\.nuget\\packages\\npgsql\\6.0.7\\npgsql.6.0.7.nupkg.sha512",
+    "C:\\Users\\CARLOS\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

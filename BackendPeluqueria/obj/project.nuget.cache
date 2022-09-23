@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "tAs94fCiVOUGcFH7CIWS8yYlzINQrOLuZiKW0ntKQxJHm/gQz5c1FhHe9bdOTV2uVFsCE6YC4dfGT7fFHPV09w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\CARLOS\\source\\repos\\BackendPeluqueria\\BackendPeluqueria\\BackendPeluqueria.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\CARLOS\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\CARLOS\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\CARLOS\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\CARLOS\\.nuget\\packages\\npgsql\\6.0.7\\npgsql.6.0.7.nupkg.sha512",
+    "C:\\Users\\CARLOS\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\CARLOS\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\CARLOS\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\CARLOS\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
+    "C:\\Users\\CARLOS\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

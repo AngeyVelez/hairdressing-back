@@ -1,0 +1,15 @@
+C:\Users\CARLOS\source\repos\BackendPeluqueria\BackendPeluqueria.Data\bin\Debug\net6.0\BackendPeluqueria.Data.deps.json
+C:\Users\CARLOS\source\repos\BackendPeluqueria\BackendPeluqueria.Data\bin\Debug\net6.0\BackendPeluqueria.Data.dll
+C:\Users\CARLOS\source\repos\BackendPeluqueria\BackendPeluqueria.Data\bin\Debug\net6.0\BackendPeluqueria.Data.pdb
+C:\Users\CARLOS\source\repos\BackendPeluqueria\BackendPeluqueria.Data\bin\Debug\net6.0\BackendPeluqueria.Model.dll
+C:\Users\CARLOS\source\repos\BackendPeluqueria\BackendPeluqueria.Data\bin\Debug\net6.0\BackendPeluqueria.Model.pdb
+C:\Users\CARLOS\source\repos\BackendPeluqueria\BackendPeluqueria.Data\obj\Debug\net6.0\BackendPeluqueria.Data.csproj.AssemblyReference.cache
+C:\Users\CARLOS\source\repos\BackendPeluqueria\BackendPeluqueria.Data\obj\Debug\net6.0\BackendPeluqueria.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CARLOS\source\repos\BackendPeluqueria\BackendPeluqueria.Data\obj\Debug\net6.0\BackendPeluqueria.Data.AssemblyInfoInputs.cache
+C:\Users\CARLOS\source\repos\BackendPeluqueria\BackendPeluqueria.Data\obj\Debug\net6.0\BackendPeluqueria.Data.AssemblyInfo.cs
+C:\Users\CARLOS\source\repos\BackendPeluqueria\BackendPeluqueria.Data\obj\Debug\net6.0\BackendPeluqueria.Data.csproj.CoreCompileInputs.cache
+C:\Users\CARLOS\source\repos\BackendPeluqueria\BackendPeluqueria.Data\obj\Debug\net6.0\BackendPeluqueria.Data.csproj.CopyComplete
+C:\Users\CARLOS\source\repos\BackendPeluqueria\BackendPeluqueria.Data\obj\Debug\net6.0\BackendPeluqueria.Data.dll
+C:\Users\CARLOS\source\repos\BackendPeluqueria\BackendPeluqueria.Data\obj\Debug\net6.0\refint\BackendPeluqueria.Data.dll
+C:\Users\CARLOS\source\repos\BackendPeluqueria\BackendPeluqueria.Data\obj\Debug\net6.0\BackendPeluqueria.Data.pdb
+C:\Users\CARLOS\source\repos\BackendPeluqueria\BackendPeluqueria.Data\obj\Debug\net6.0\ref\BackendPeluqueria.Data.dll
